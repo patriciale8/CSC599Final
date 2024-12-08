@@ -1,4 +1,4 @@
-Overview
+Overview:
 This project explores the use of machine learning techniques to predict hospital treatment costs based on clinical and demographic data. By leveraging models such as Random Forest, Gradient Boosting, and XGBoost, we aim to deliver insights that can aid healthcare providers in cost management and planning.
 
 Features
